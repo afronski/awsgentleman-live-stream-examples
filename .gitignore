@@ -1,0 +1,6 @@
+# Terraform state:
+/**/.terraform/
+/remote-state/*.tfstate*
+
+# Virtualenv:
+/.env/
