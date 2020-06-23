@@ -1,4 +1,4 @@
-# `awsgentleman-twitch-examples`
+# `awsgentleman-vpc-example`
 
 ## What is it?
 
