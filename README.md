@@ -2,7 +2,7 @@
 
 ## What is it?
 
-It is an example for *AWS VPC* that I have prepared for the livestreaming sessions for [AWS Gentleman](https://awsgentleman.com/live).
+It is an example for *AWS VPC* that I have prepared for the live stream session for [AWS Gentleman](https://awsgentleman.com/live).
 
 ## Live Stream 2: Amazon VPC and AWS Networking
 
