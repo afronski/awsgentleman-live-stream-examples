@@ -2,9 +2,9 @@
 
 ## What is it?
 
-It is set of examples that I have prepared for the livestreaming sessions for [AWS Gentleman](https://awsgentleman.com/live).
+It is an example for *AWS VPC* that I have prepared for the livestreaming sessions for [AWS Gentleman](https://awsgentleman.com/live).
 
-## Livestream 2: Amazon VPC and AWS Networking
+## Live Stream 2: Amazon VPC and AWS Networking
 
 ### Terraform
 
