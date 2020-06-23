@@ -2,7 +2,7 @@
 
 ## What is it?
 
-It is set of examples that I have prepared for the livestreaming sessions for [AWS Gentleman](https://awsgentleman.com) initiative on [Twitch](https://twitch.tv/afronski).
+It is set of examples that I have prepared for the livestreaming sessions for [AWS Gentleman](https://awsgentleman.com/live).
 
 ## Livestream 2: Amazon VPC and AWS Networking
 
