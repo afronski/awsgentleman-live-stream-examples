@@ -1,8 +1,8 @@
-# `awsgentleman-vpc-example`
+# `awsmaniac-vpc-example`
 
 ## What is it?
 
-It is an example for *AWS VPC* that I have prepared for the live stream session for [AWS Gentleman](https://awsgentleman.com/live).
+It is an example for *AWS VPC* that I have prepared for the live stream session for [AWS Maniac](https://awsmaniac.com/live).
 
 ## Live Stream 2: Amazon VPC and AWS Networking
 
@@ -34,4 +34,4 @@ It is an example for *AWS VPC* that I have prepared for the live stream session 
 
 ## Authors
 
-- [Wojciech Gawroński (afronski) - AWS Gentleman](https://github.com/afronski)
+- [Wojciech Gawroński (afronski) - AWS Maniac](https://github.com/afronski)
