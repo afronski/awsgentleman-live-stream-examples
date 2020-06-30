@@ -6,12 +6,12 @@ terraform {
     dynamodb_table = "terraform_state_lock"
     key            = "state-lock-storage.keypath"
     region         = "eu-north-1"
-    profile        = "pattern-match-aws-gentleman"
+    profile        = "aws-maniac"
   }
 }
 
 provider "aws" {
   version = "~> 2.0"
   region  = var.aws_region
-  profile = "pattern-match-aws-gentleman"
+  profile = "aws-maniac"
 }
